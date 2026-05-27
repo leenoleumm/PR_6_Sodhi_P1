@@ -1,6 +1,6 @@
-![Результат работы приложения](pic1.png)
+![Результат работы приложения](https://github.com/leenoleumm/PR_6_Sodhi/blob/master/pic1.png)
 
-![Обозреватель тестов](pic2.png)
+![Обозреватель тестов](https://github.com/leenoleumm/PR_6_Sodhi/blob/master/pic2.png)
 
 ## Вывод о проведенном тестировании
 
