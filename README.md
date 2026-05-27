@@ -1,5 +1,7 @@
+Результат работы приложения:
 ![Результат работы приложения](https://github.com/leenoleumm/PR_6_Sodhi/blob/master/pic1.png)
 
+Окно обозревателя тестов:
 ![Обозреватель тестов](https://github.com/leenoleumm/PR_6_Sodhi/blob/master/pic2.png)
 
 ## Вывод о проведенном тестировании
